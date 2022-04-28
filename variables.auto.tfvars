@@ -10,4 +10,3 @@ disk_size_gb       = 10
 service_account    = "sdemo1@taconet-3503.iam.gserviceaccount.com"
 initial_node_count = 3
 
-# hei
